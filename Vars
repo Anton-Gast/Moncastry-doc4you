@@ -1,0 +1,5 @@
+author;anton;
+# Variablen für Makefile
+# ======================
+#MD_READ;gnome-text-editor; # Default: ghostwriter
+

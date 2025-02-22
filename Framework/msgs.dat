@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+    MSG[0]="Nachricht für doc4you nicht gefunden"
+    MSG[1]="Es wird genau ein Argument benötigt"
+    MSG_MAP["arg1_needed"]="1"

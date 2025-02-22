@@ -1,0 +1,7 @@
+.shellcheckrc
+.Vars
+x.*
+y.*
+parken/
+test/bats
+test/test_helper/*/*
